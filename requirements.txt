@@ -1,0 +1,12 @@
+Open-AI API
+langgraph
+langchain
+langchain-community
+langchain-openai
+chromadb
+tiktoken
+openai
+pandas
+numpy
+python-dotenv
+KAGGLE.JSON file
